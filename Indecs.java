@@ -19,4 +19,5 @@ if(b[i]==i)
 System.out.print(b[i]);
 }
 }
-}}
+}
+}
